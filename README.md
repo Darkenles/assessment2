@@ -24,3 +24,11 @@ This is built for using Google Cloud Platform (GCP) which has an in-built terraf
    terraform apply
    ```
 7. The function should be running properly, for checking purposes, you can make an HTTP request to its URL and see if the same response is given as the one in the link provided.
+
+## Error encountered when running terraform apply
+1. when running "terraform init"
+   ![Image Alt Text](terraform_init.PNG)
+2. when running "terraform plan"
+   ![Image Alt Text](terraform_plan.PNG)
+3. when running "terraform apply"
+   ![Image Alt Text](terraform_apply.PNG)
